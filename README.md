@@ -1,6 +1,6 @@
 # bugs-manager-autotests
 
-## Reqirements
+## Requirements
 * Java 8
 * Maven
 * Google Chrome (tested with 65.0.3325.181 64-bit)
